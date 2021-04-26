@@ -36,3 +36,14 @@ p.lead {
 a {
 	color: #0f4c81;
 }
+
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid;
+	font-size: 1.1;
+}
