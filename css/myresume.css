@@ -1,38 +1,39 @@
-body { 
-    front-family: 'Noto Sans TC',sans-serif;
+body {
+	font-family: 'Noto Sans TC',sans-serif;
 } 
-h1,h2,h3,h4,h5,h6, .h1, .h2, .h3, .h4, .h5, .h6{ 
-   front-family: 'Noto Sans TC',sans-serif;
+h1,h2,h3,h4,h5,h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	font-family: 'Noto Sans TC',sans-serif;
 } 
-subheading { 
+.subheading { 
 	front-family: 'Noto Sans TC',sans-serif;
-} subheading {
-font-family: 'Noto Sans TC' , sans-serif;
-font-size: 1.2rem;
-font-weight: normal;
+} 
+.subheading {
+	font-family: 'Noto Sans TC' , sans-serif;
+	font-size: 1.2rem;
+	font-weight: normal;
 }
 
 h1, h2, h3, h4, h5, h6, .subheading{
-text-transform: none;
-color: black;
+	text-transform: none;
+	color: black;
 }
 h1, .h1 {
-font-size: 5rem;
+	font-size: 5rem;
 }
 
 p.lead {
-font-size: 1.2rem;
+	font-size: 1.2rem;
 }
 
 .bg-primary {
-background-color: #0f4c81!important;
-background-image: url(../assets/img/o.jpg);
+	background-color: #0f4c81!important;
+	background-image: url(../assets/img/o.jpg);
 }
 
 .text-primary {
-color: #0f4c81!important;
+	color: #0f4c81!important;
 }
 
 a {
-color: #0f4c81;
+	color: #0f4c81;
 }
